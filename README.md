@@ -12,4 +12,4 @@ For the circleci see the circleci branch
   * `python-latest` - alias for latest
   * `circleci-latest` - from circle ci python 3.6.4
   
-More here: [Docker Repo](https://hub.docker.com/repository/docker/thulasi503/cloudlift-docker)
+More here: [Docker Repo](https://hub.docker.com/r/thulasi503/cloudlift-docker)
