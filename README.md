@@ -2,5 +2,5 @@
 Docker images with cloudlift installed
 
 
-Comes in two flavours. the standard python docker and docker from circleci.
+Comes in two flavours. standard python and circleci.
 For the circleci see the circleci branch
