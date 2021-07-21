@@ -18,3 +18,7 @@ The circleci flavour is about: 1.16GB (Built from python3.6.4 and docker provide
   * `circleci-latest` - from circle ci python 3.6.4
   
 More here: [Docker Repo](https://hub.docker.com/r/thulasi503/cloudlift-docker)
+
+![Docker Automated build](https://img.shields.io/docker/automated/thulasi503/cloudlift-docker?label=docker%20automated%20build&style=for-the-badge)
+
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/thulasi503/cloudlift-docker?style=for-the-badge)
